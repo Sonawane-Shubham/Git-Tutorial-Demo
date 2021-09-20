@@ -1,1 +1,2 @@
 this is my text1 file
+i want to this go into commit 2
